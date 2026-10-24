@@ -1,0 +1,18 @@
+Sample session after creating the database and table:
+
+1 Add  2 Search  3 Update marks  4 Delete  5 List  0 Exit
+Choice: 5
+REG NO       NAME                 MARKS
+101          Aravind              78
+102          Divya                91
+
+Choice: 1
+Register number: 103
+Name: Karthik
+Marks: 45
+Student added.
+
+Choice: 0
+
+This is sample output. A successful run requires MySQL, the Connector/J JAR, and valid DB_URL,
+DB_USER, and DB_PASSWORD environment settings.

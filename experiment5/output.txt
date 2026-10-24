@@ -1,0 +1,15 @@
+Thread subclass started
+Synchronized final count = 20000
+Counter-2 booked seat 9
+Counter-3 booked seat 8
+Counter-3 booked seat 6
+Counter-3 booked seat 5
+Counter-3 booked seat 4
+Counter-1 booked seat 10
+Counter-1 booked seat 3
+Counter-1 booked seat 2
+Counter-1 booked seat 1
+Counter-2 booked seat 7
+Seats remaining = 0
+
+Booking order varies between runs. Every seat is unique, and the final count stays at zero.

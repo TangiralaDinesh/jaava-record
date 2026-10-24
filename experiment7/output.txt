@@ -1,0 +1,13 @@
+ROLL   NAME       MARKS
+101    Aravind    78
+102    Divya      91
+103    Karthik    45
+result.txt created: passed 2, failed 1
+
+Contents of result.txt:
+Aravind PASS
+Divya PASS
+Karthik FAIL
+Passed: 2
+Failed: 1
+Average: 71.33

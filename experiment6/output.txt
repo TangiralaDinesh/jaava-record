@@ -1,0 +1,10 @@
+Array error caught
+Math error caught
+finally block ran
+Null reference error caught
+Age 21 accepted
+Rejected: Age 15 is below 18
+Dispensed 2000.0, balance 3000.0
+Invalid amount: Amount must be positive and a multiple of 100: 350.0
+Withdrawal refused: Balance is only 3000.0
+Dispensed 1500.0, balance 1500.0

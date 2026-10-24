@@ -1,0 +1,10 @@
+UseMath
+The square of the number 3  is :9
+The cube of the number 3 is :27
+
+CaseStudy2
+NAME       COURSE          FEE
+Meena      BE           75000.00
+Ravi       ME           60000.00
+Anu        BSc          40000.00
+Total fee = Rs. 175000.00

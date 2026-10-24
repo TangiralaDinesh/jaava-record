@@ -1,0 +1,11 @@
+GUI output (interactive Swing window):
+Name: Divya Lakshmi
+Branch: CSE
+Gender: Female
+Hostel required: selected
+Submit result: Divya Lakshmi | CSE | Female | Hostel: Yes
+
+Validation: an empty name displays "Name cannot be empty"; no gender selection displays "Select a gender".
+
+LayoutDemo GUI: FlowLayout places toolbar buttons in a row; GridLayout displays twelve equal keypad
+buttons; BorderLayout places the toolbar north, keypad center, and description south.

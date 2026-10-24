@@ -1,0 +1,31 @@
+StudentDemoJava
+1 Dinesh 100
+2 Narayana 101
+
+MarksArray
+78 Pass
+91 Pass
+45 Fail
+66 Pass
+88 Pass
+Total = 368
+Average = 73.6
+
+StringDemo
+Length      : 17
+Upper case  : SCSVMV UNIVERSITY
+First six SCSVMV
+Position of U: 7
+Replace S->X: XCXVMV University
+Original    : SCSVMV University
+madam is a palindrome
+
+CaseStudy1 sample input
+3 students: Aravind, 28 days; Divya, 30 days; Karthik, 25 days
+
+NAME    DAYS    BILL
+Aravind        28  2380.00
+Divya          30  2550.00
+Karthik        25  1912.50
+Total collection = Rs. 6842.50
+Highest bill = Divya (Rs. 2550.00)

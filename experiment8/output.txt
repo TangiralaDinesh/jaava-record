@@ -1,0 +1,8 @@
+GUI output (interactive Swing window):
+- Four color swatches appear at the top of the window.
+- A five-subject bar chart appears below; passing bars use the selected color and a failing bar is gray.
+- Clicking a swatch changes the color used for passing bars.
+- Clicking a bar displays its subject number and mark above the chart.
+
+The applet API was removed in JDK 17, so this experiment uses the manual's JPanel replacement route.
+The applet lifecycle sequence studied in the manual is init(), start(), paint(), stop(), destroy().
